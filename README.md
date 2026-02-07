@@ -21,6 +21,6 @@
 **Security scope:** вынесен в отдельную часть документации (не входит в текущий пакет регистрации).
 
 **Артефакты:**
-- `Auth-service API (Registration) - OpenAPI Contract.md`
+- [`Auth-service API (Registration) - OpenAPI Contract.md`](https://github.com/goodwintt23-cpu/project-07-auth-service-rest-api/blob/main/01.Auth-service%20API%20(Registration)%20-%20OpenAPI%20Contract.md#auth-service-api-registration---openapi-contract)
 - `Auth-service API (Registration) - Endpoints.md`
 - `Ошибки и коды ответов API (auth-service).md`
